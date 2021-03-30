@@ -1,0 +1,33 @@
+[
+    {
+        "name" : "Roxana Mardare",
+        "address" : "Strada Colentina, comuna 59B, Călugăreni 137128",
+        "company" : "Ubisoft",
+        "yearsOfExperience": 7
+    },
+    {
+        "name" : "Liviu Maria",
+        "address" : "Strada Principala nr.155, Poiana lui Stângă, Poiana lui Stângă 087254",
+        "company" : "GrubHub",
+        "yearsOfExperience": 10
+    },
+    {
+        "name" : "Daniel Iustin",
+        "address" : "DJ601E",
+        "company" : "VasRo",
+        "yearsOfExperience": 3
+    },
+    {
+        "name" : "Aurelia Maria",
+        "address" : "148 (previously 313) Soseaua Unirii, Corbeanca",
+        "company" : "EduPlast",
+        "yearsOfExperience": 33
+    },
+    {
+        "name" : "Feli Felishor",
+        "address" : "Strada Nicolae G. Caramfil 2C, București 014192",
+        "company" : "BeingAcatSRL",
+        "yearsOfExperience": 2
+    }
+
+]
